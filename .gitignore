@@ -1,0 +1,6 @@
+# Temp files
+*.tmp
+*.temp
+
+# Ignored file
+*.ignore
